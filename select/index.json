@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "Friends（feat. Vingo、JP THE WAVY、Benjazzy、YZERR）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-27T03:25:28.969236Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Friends (feat. Vingo, JP THE WAVY, Benjazzy & YZERR)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/01_Friends_(feat._Vingo,_JP_THE_WAVY,_Benjazzy_&_YZERR)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Friends (feat. Vingo, JP THE WAVY, Benjazzy, YZERR & LEX)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/02_Friends_(feat._Vingo,_JP_THE_WAVY,_Benjazzy,_YZERR_&_LEX)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friends (feat. Vingo, JP THE WAVY, Benjazzy, YZERR & LEX)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/03_Friends_(feat._Vingo,_JP_THE_WAVY,_Benjazzy,_YZERR_&_LEX)_BAD_HOP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friends",
+      "artist": "BAD HOP, Vingo, JP THE WAVY, Benjazzy, YZERR, LEX",
+      "has_synced": false,
+      "path": "select/pl_01_Friends_BAD_HOP,_Vingo,_JP_THE_WAVY,_Benjazzy,_YZERR,_LEX.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Friends（feat. Vingo、JP THE WAVY、Benjazzy、YZERR）",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/localdb_01_Friends(feat._Vingo、JP_THE_WAVY、Benjazzy、YZERR)_BAD_HOP.lrc",
+      "repo_name": "XJCW_mj-DYU"
+    }
+  ]
+}
